@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! I'm Alicia 👋
 
-<!--
-**aliiyuu/aliiyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Computer Science student at UCLA passionate about building **AI-powered solutions** that are not only technically robust, but also **ethical, accessible, and impactful**.
 
-Here are some ideas to get you started:
+## 🔧 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love working at the intersection of **software engineering and data science**, where smart technology meets real-world impact. My projects range from:
+
+- 💬 Crafting **LLM-powered chatbots** with persistent memory  
+- 🧠 Developing **OCR pipelines** to support healthcare providers  
+- 🌐 Building full-stack apps using **React**, **Next.js**, and **TypeScript**  
+- 📊 Using **PyTorch**, **scikit-learn**, and **Pandas** to extract insights and tell data-driven stories  
+
+🧩 Whether it’s backend infrastructure or user-facing design, I focus on writing **scalable, maintainable code**—always asking: _Who does this serve? How can it be better, more inclusive, more human?_
+
+---
+
+## 👀 More About Me
+
+Outside of code, I enjoy:
+
+- ✍️ **Creative writing**  
+- 🎨 **Graphic design**  
+- 🌍 **Language learning**  
+- 🎭 Dabbling in **voice acting** and **musical theater**
+
+I’m always exploring ways to blend **art and technology**, and I'm especially interested in making tech that **empowers people and communities**.
+
+---
+
+## 📫 Let's Connect!
+
+Thanks for stopping by—feel free to check out my projects or reach out. I'm always open to collaborating, learning, and building something meaningful together.
