@@ -1,6 +1,6 @@
 # Hi there! I'm Alicia 👋
 
-I'm a fourth-year Computer Science student at UCLA passionate about building **AI-powered solutions** that are not only technically robust, but also **ethical, accessible, and impactful**.
+I'm a UCLA CS student passionate about building **AI-powered solutions** that are not only technically robust, but also **ethical, accessible, and impactful**.
 
 ## 🔧 What I Do
 
